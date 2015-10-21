@@ -1,2 +1,2 @@
 # getips
-retieve IPs by domain
+retrieve IPs by domain
